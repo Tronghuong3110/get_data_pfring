@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "cjson.h": "c",
+        "pfring_mod_sysdig.h": "c",
+        "stdint.h": "c"
+    }
+}
